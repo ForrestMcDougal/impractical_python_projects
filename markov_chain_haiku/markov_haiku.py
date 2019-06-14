@@ -242,5 +242,9 @@ def main():
     input("\n\nPress the Enter key to exit.")
 
 
+# man's memories! a
+# far bank of clouds that I let
+# myself pretend are
+
 if __name__ == "__main__":
     main()
